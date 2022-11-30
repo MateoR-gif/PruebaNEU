@@ -11,7 +11,7 @@ Para la ejecución del backend:
   
 Para la ejecución del Frontend:
 
-  npm i
+  npm i ->
   npm start
   
   (dentro de la carpeta front)
